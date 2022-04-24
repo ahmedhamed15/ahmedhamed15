@@ -3,17 +3,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedhamed15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamed15" /> </p>
 
-- 🔭 I’m currently working on [Ooredoo Qatar](https://www.ooredoo.qa) and [Amiri Diwan - Qatar](https://www.diwan.gov.qa) with [iHorizons Company](https://ihorizons.com/)
+- 🔭 I’m currently working on [Ooredoo Qatar](https://www.ooredoo.qa) and [Qatari Amiri Diwan](https://www.diwan.gov.qa) with [iHorizons Company](https://ihorizons.com/)
 
 - 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://ahmed-hamed.info](https://ahmed-hamed.info)
 
+- 📄 Know about my experiences [My Resume](https://ahmed-hamed.info/assets/files/Ahmed%20Hamed%20-%20Resume.pdf)
+
 - 💬 Ask me about **HTML5, CSS3, JS, SASS, GulpJs, Bootstrap, GIT and jQuery**
 
 - 📫 How to reach me **ahmed.m.hamed.2019@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://ahmed-hamed.info/assets/files/Ahmed%20Hamed%20-%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
