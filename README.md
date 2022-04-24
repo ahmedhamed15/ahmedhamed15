@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamed</h1>
 <h3 align="center">A passionate Frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhamed15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamed15" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedhamed15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamed15" /> </p>
 
 - 🔭 I’m currently working on [Ooredoo Qatar](https://www.ooredoo.qa)
 
