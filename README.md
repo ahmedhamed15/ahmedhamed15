@@ -27,13 +27,17 @@
 ## 🔥 Most Used Languages
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhamed15&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ahmedhamed15" /></p>
+
 <br>
 <br>
+
 ## 🔥 Github Stats
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhamed15&show_icons=true&locale=en&theme=algolia" alt="ahmedhamed15" /></p>
+
 <br>
 <br>
+
 ## 🔥 Streak Stats
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhamed15&theme=algolia" alt="ahmedhamed15" /></p>
