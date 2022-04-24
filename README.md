@@ -27,5 +27,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhamed15&show_icons=true&locale=en&layout=compact" alt="ahmedhamed15" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhamed15&show_icons=true&locale=en" alt="ahmedhamed15" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhamed15&" alt="ahmedhamed15" /></p>
+## 🔥 Streak Stats
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhamed15&theme=algolia" alt="ahmedhamed15" /></p>
