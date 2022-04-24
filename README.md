@@ -3,11 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedhamed15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamed15" /> </p>
 
-- 🔭 I’m currently working on [Ooredoo Qatar](https://www.ooredoo.qa)
+- 🔭 I’m currently working on [Ooredoo Qatar](https://www.ooredoo.qa) and [Amiri Diwan - Qatar](https://www.diwan.gov.qa)
 
 - 🌱 I’m currently learning **ReactJs**
-
-- 🔭 I’m currently working on [Amiri Diwan - Qatar](https://www.diwan.gov.qa)
 
 - 👨‍💻 All of my projects are available at [https://ahmed-hamed.info](https://ahmed-hamed.info)
 
