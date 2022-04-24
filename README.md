@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [My Resume](https://ahmed-hamed.info/assets/files/Ahmed%20Hamed%20-%20Resume.pdf)
 
-- 💬 Ask me about **HTML5, CSS3, JS, SASS, GulpJs, Bootstrap, GIT and jQuery**
+- 💬 Ask me about **HTML5, CSS3, JS, SASS, PugJs, GulpJs, Bootstrap, GIT and jQuery**
 
 - 📫 How to reach me **ahmed.m.hamed.2019@gmail.com**
 
