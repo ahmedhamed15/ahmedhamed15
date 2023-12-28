@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Ooredoo Qatar](https://www.ooredoo.qa) and [Qatari Amiri Diwan](https://www.diwan.gov.qa) with [iHorizons](https://ihorizons.com/)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Advanced ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://ahmed-hamed.info](https://ahmed-hamed.info)
+- 👨‍💻 All of my projects are available at [https://ahmed-hamed.com](https://ahmed-hamed.com)
 
-- 📄 Know about my experiences [My Resume](https://ahmed-hamed.info/assets/files/Ahmed%20Hamed%20-%20Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://ahmed-hamed.com/assets/files/Ahmed%20Hamed%20-%20Resume.pdf)
 
-- 💬 Ask me about **HTML5, CSS3, JS, SASS, PugJs, GulpJs, Bootstrap, GIT and jQuery**
+- 💬 Ask me about **HTML5, CSS3, JS, Typescript, SASS, PugJs, GulpJs, Bootstrap, GIT and jQuery**
 
 - 📫 How to reach me **ahmed.m.hamed.2019@gmail.com**
 
